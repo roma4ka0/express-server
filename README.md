@@ -1,2 +1,0 @@
-# CV
-# Fullscreen-landing-page
